@@ -1,0 +1,145 @@
+body{
+    min-width: 500px;
+
+    background-image: url('../images/banner2.png ');
+
+
+   
+}
+
+
+
+.centered{
+    border:5 solid gray;
+}
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0px;
+    background-color: #554C93;
+    z-index: 50;
+    opacity: 1;
+    border-bottom: 5px solid darkgrey;
+}
+header a{
+    color:rgb(247, 236, 236);
+ 
+}
+.nes:hover{
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+
+.A_box{
+
+    padding-top: 100px;
+    width: 100%;
+    margin: 0px !important;
+    margin-bottom: 10px;
+}
+
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;  
+    transform: translate(-50%, -50%);
+    font-size: 0;
+    color: rgb(255, 219, 13);
+    text-align: center;     
+}
+.B_box{
+    background-color: rgba(168, 158, 236, 0.63);
+
+
+    box-shadow: 2px 2px 2px darkgray;
+    border: 1px solid gray;
+    background-position: center;
+    margin-left: 0px !important;
+    background-size: cover;
+    width: 100%;
+    padding: 100px;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+.C_box{
+    background-color: rgba(168, 158, 236, 0.63);
+    border: 1px solid gray;
+  
+}
+
+.D_box{
+    background-color: rgba(168, 158, 236, 0.63);
+    border: 1px solid gray;
+    padding: 100px;
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.aside1{
+    width: 50%;
+    background-color: coral;
+}
+
+.opis{
+    font-size: 16pt;
+    padding-left: 10px;
+}
+.aside2{
+    margin: 0 auto;
+
+}
+
+
+#myChart {
+ 
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 200px;
+}
+
+.charts{
+    background-color: rgba(161, 21, 161, 0.124);
+}
+
+.chartBreak{
+    background-color: rgba(168, 158, 236, 0.63);
+
+
+
+
+
+    width: 100%;
+  
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    color:rgb(247, 236, 236);
+    font-family:'Times New Roman', Times, serif;
+    text-shadow: 1px 1px #554C93;
+  
+    
+}
+h1{
+    text-shadow: 2px 2px #554C93;
+}
+h2{
+    text-shadow: 2px 2px #554C93;
+}

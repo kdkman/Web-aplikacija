@@ -1,0 +1,24 @@
+
+
+@media only screen and (max-width: 991px) {
+
+    .C_box{
+        padding: 150px;
+    }
+
+    #changeImg {
+        display: none;
+    }
+
+    .hover{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+
+    
+   
+  
+     
+}
